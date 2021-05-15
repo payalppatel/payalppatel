@@ -2,7 +2,6 @@
 I am a student. I am currently learning software development.
 
 ## Find me on Web 🌎
----
 
 - <img src="./images/web.png" width = 25px height = 25px align = center> [My Portfolio](https://payalpatel.me)
 
